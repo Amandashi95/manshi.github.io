@@ -13,15 +13,15 @@ title                    : "Man Shi Homepage"
 title_separator          : "-"
 name                     : &name "Man  Shi"
 description              : &description "Postdoc researcher from UC Berkeley"
-url                      : https://manshi.github.io 
-repository               : "academicpages/academicpages.github.io"
+url                      : "https://amandashi95.github.io/manshi.github.io/"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "manshi.png"
   name             : "Man  Shi"
   pronouns         : "she/her"  
   bio              : "Postdoc researcher from UC Berkeley"
