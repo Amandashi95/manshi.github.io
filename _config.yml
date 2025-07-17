@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "manshi.png"
   name             : "Man  Shi"
   pronouns         : "she/her"  
   bio              : "Postdoc researcher from UC Berkeley"
